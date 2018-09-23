@@ -10,4 +10,4 @@ function formatTime() {
 	} 
 }
 //jezeli dodam w nazwie funkcji wielką literę przestaje działać - funkcja nie istnieje
-exports.formattime = formatTime;
+exports.formatTime = formatTime;
